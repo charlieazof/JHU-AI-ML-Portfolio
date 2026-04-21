@@ -42,6 +42,5 @@ my interest in applying AI to practical business and scientific problems.
 
 ---
 *Author: Charlie Azofeifa · JHU Diploma in Artificial Intelligence*
-
-Veo que ya tienes 01_Airline_Delay_Analysis creada — ¡vas por buen camino! Solo te faltan las otras 3 carpetas de proyectos.
+ 01_Airline_Delay_Analysis creada — ¡vas por buen camino! Solo te faltan las otras 3 carpetas de proyectos.
 ¿Quieres que también te ayude a redactar un README individual para dentro de cada carpeta de proyecto? Eso hace que cada proyecto se vea aún más completo.Opus 4.7
